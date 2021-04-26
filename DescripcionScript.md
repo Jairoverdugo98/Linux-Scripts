@@ -5,6 +5,7 @@ El número de usuarios es opcional siendo por defecto 5.
 El grupo al que han de pertenecer es opcional, siendo por defecto el nombre base que se da para generar los usuarios.
 
 ## Código Del Script
+``` ruby
 #!/bin/bash
 # Author: Jairo Verdugo
 # Version: 1.0
